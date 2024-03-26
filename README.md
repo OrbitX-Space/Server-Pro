@@ -7,4 +7,4 @@ Create **Minecraft servers** effortlessly with just a few clicks using this intu
 Get started with your Minecraft adventure today! [Download Server Pro](https://drive.google.com/file/d/1lXEuaVvQSNWbK0g6cAQ10l53FF5gprXM/view?usp=drivesdk).
 
 ## Screenshots:<br>
-![Server_Pro_UI](images/img2.png)
+![Server_Pro_UI](images/img2.PNG)
