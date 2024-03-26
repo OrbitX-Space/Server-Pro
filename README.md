@@ -5,3 +5,6 @@
 Create **Minecraft servers** effortlessly with just a few clicks using this intuitive server creation tool. Whether you're a seasoned server administrator or a newcomer to the Minecraft community, our tool simplifies the process of setting up a server, allowing you to focus more on building and playing with friends.<br>
 <br>
 Get started with your Minecraft adventure today! [Download Server Pro](https://drive.google.com/file/d/1lXEuaVvQSNWbK0g6cAQ10l53FF5gprXM/view?usp=drivesdk).
+
+## Screenshots:<br>
+![Server_Pro_UI](images/img2.png)
